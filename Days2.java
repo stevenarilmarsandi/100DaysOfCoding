@@ -1,6 +1,6 @@
 package Steven; // Mendefinisikan package bernama Steven
 
-public class Episod2 { // Main Class bernama Steven
+public class Steven { // Main Class bernama Steven
 
    public static void main(String[] args) { // Method main
  
