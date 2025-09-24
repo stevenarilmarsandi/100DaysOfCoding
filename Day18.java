@@ -1,4 +1,4 @@
-public class KonversiOtomatis {
+public class Konversi {
     public static void main(String[] args) {
         byte a = 22;         
         short b = a;         
