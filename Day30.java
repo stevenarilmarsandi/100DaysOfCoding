@@ -7,7 +7,7 @@ public class NewClass1{
       // Operator <=
         System.out.println("a <= b : " + (a <= b));   // true
         System.out.println("b <= a: " + (b <= a));   // true
-        System.out.println("c <= a: " + (b <= c));   // false
+        System.out.println("b <= c: " + (b <= c));   // false
 
         // Operator >=
         System.out.println("b >= a: " + (b >= a));   // true
