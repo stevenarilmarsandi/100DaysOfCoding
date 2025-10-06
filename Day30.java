@@ -11,8 +11,8 @@ public class NewClass1{
 
         // Operator >=
         System.out.println("b >= a: " + (b >= a));   // true
-        System.out.println("c >= a: " + (c >= a));   // true
-        System.out.println("a >= b: " + (a >= b));   // false
+        System.out.println("c >= a: " + (c >= a));   // false
+        System.out.println("a >= b: " + (a >= b));   // true
     }
 }
 
