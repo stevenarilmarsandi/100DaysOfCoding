@@ -1,6 +1,6 @@
 public class Steven{
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
+     
         String Steven = "Steven Immortal Season ini";
 
         System.out.println("Panjang string : " + Steven.length());
