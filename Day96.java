@@ -20,9 +20,9 @@ public class Steven{
 
     public static void main(String[] args) {
 Scanner in = new Scanner(System.in);
-        System.out.println("Masukkan Angka: ");
+        System.out.print("Masukkan Angka: ");
       int a = in.nextInt(); 
-        System.out.println("Masukkan Angka: ");
+        System.out.print("Masukkan Angka: ");
       int b = in.nextInt();
            System.out.println("Penjumlahan : " + tambah(a, b));
         System.out.println("Pengurangan : " + kurang(a, b));
